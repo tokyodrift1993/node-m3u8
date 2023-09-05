@@ -24,7 +24,7 @@ var dataTypes = AttributeList.dataTypes = {
   'title'             : 'enumerated-string',
   'type'              : 'enumerated-string',
   'uri'               : 'quoted-string',
-  'video'             : 'quoted-string'
+  'video'             : 'quoted-string',
   'closed-captions'   : 'enumerated-string'
 };
 
