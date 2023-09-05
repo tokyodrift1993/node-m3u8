@@ -25,6 +25,7 @@ var dataTypes = AttributeList.dataTypes = {
   'type'              : 'enumerated-string',
   'uri'               : 'quoted-string',
   'video'             : 'quoted-string'
+  'closed-captions'   : 'enumerated-string'
 };
 
 AttributeList.prototype.mergeAttributes = function mergeAttributes(attributes) {
